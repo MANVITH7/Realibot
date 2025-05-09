@@ -79,28 +79,6 @@ Open `public/index.html` directly in your browser or serve using any static serv
 
 ---
 
-## 🏗 Deployment
-
-### Deploy Backend (Render)
-
-1. Push the project to GitHub.
-2. Go to [Render](https://render.com/)
-3. Create a new Web Service:
-   - Root directory: `backend`
-   - Build command: `pip install -r requirements.txt`
-   - Start command: `python app.py`
-4. Add environment variables:
-   - `OPENAI_API_KEY`
-   - `OPENAI_MODEL`
-
-### Deploy Frontend (Netlify or GitHub Pages)
-
-Use Netlify:
-- Deploy the `public/` folder
-- Point to `index.html` as the entry
-
----
-
 ## 🧠 Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript
