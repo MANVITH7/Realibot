@@ -36,7 +36,7 @@ Realibot/
 
 ---
 
-## 🚀 Getting Started (Local Setup)
+## Getting Started (Local Setup)
 
 ### 1. Clone the Repository
 
@@ -63,7 +63,7 @@ OPENAI_API_KEY=sk-XXXXXXXXXXXXXXXXXXXXXXXXXXXX
 OPENAI_MODEL=gpt-4
 ```
 
-> ⚠️ Never commit `.env` to GitHub.
+> ⚠ Never commit `.env` to GitHub.
 
 ### 4. Run the Flask Server
 
@@ -79,7 +79,7 @@ Open `public/index.html` directly in your browser or serve using any static serv
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Python Flask
@@ -88,6 +88,6 @@ Open `public/index.html` directly in your browser or serve using any static serv
 
 ---
 
-## 📜 License
+## License
 
-This project is open-source and free to use under the MIT License.
+This project is open-source and free to use.
