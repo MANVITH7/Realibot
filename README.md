@@ -84,7 +84,6 @@ Open `public/index.html` directly in your browser or serve using any static serv
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Python Flask
 - **AI**: OpenAI GPT-4 API
-- **Hosting**: Render (backend), Netlify (frontend optional)
 
 ---
 
